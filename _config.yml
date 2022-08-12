@@ -1,8 +1,8 @@
 # site settings
 title: Siyamak Sarabi
-subtitle: My Personal Site - This site is currently under construction (only template data available)
+subtitle: My Personal Site
 email: siyamak[dot]sarabi[at]gmail[dot]com
-description: I am a Researcher specialized on Power system Optimization <br /> and Energy Management systems.
+description: I am a research engineer specialized on Power system Optimization <br /> and Energy Management systems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -15,7 +15,7 @@ country: France
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 0
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
@@ -24,12 +24,13 @@ tiles-count: 6
 socials:
   GitHub: https://github.com/siyamaksarabi
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+#  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
   Instagram:
   LinkedIn: https://www.linkedin.com/in/siyamak-sarabi-bbb39146/
   Twitter: 
   Facebook:
   Slack:
+  Academia: https://artsetmetiersparistech.academia.edu/SiyamakSarabi
 
 # build settings
 markdown: kramdown
